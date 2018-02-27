@@ -1,0 +1,8 @@
+C:\Users\TheDa\documents\visual studio 2010\Projects\primeiralisao\primeiralisao\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+C:\Users\TheDa\documents\visual studio 2010\Projects\primeiralisao\primeiralisao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TheDa\documents\visual studio 2010\Projects\primeiralisao\primeiralisao\obj\x86\Debug\primeiralisao.csproj.GenerateResource.Cache
+C:\Users\TheDa\documents\visual studio 2010\Projects\primeiralisao\primeiralisao\bin\Debug\primeiralisao.exe
+C:\Users\TheDa\documents\visual studio 2010\Projects\primeiralisao\primeiralisao\bin\Debug\primeiralisao.pdb
+C:\Users\TheDa\documents\visual studio 2010\Projects\primeiralisao\primeiralisao\obj\x86\Debug\primeiralisao.exe
+C:\Users\TheDa\documents\visual studio 2010\Projects\primeiralisao\primeiralisao\obj\x86\Debug\primeiralisao.pdb
+C:\Users\TheDa\Documents\Visual Studio 2010\Projects\primeiralisao\primeiralisao\obj\x86\Debug\primeiralisao.csprojResolveAssemblyReference.cache
